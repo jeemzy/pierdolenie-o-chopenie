@@ -16,11 +16,11 @@ Dla ucznia taki system oznacza, że prawie każdy aspekt nauki zostaje zapisany 
 W ten sposób dziennik nie jest tylko szkolnym dokumentem, ale także narzędziem organizacji i nadzoru.
 ```
 
-# 3. „Kontrolne” (sprawdziany), kartkówki i „samostojatelne”
+# 3. „Kontrolne” (sprawdziany) i kartkówki
 ```
-W białoruskiej szkole duże znaczenie mają „kontrolne” (sprawdziany), kartkówki oraz „samostojatelne”, które są bardzo podobne do krótkich niezapowiedzianych prac.
+W białoruskiej szkole duże znaczenie mają „kontrolne” (sprawdziany) oraz kartkówki, nazywane też „samostojatelnymi”.
 Takie formy sprawdzania służą nie tylko do oceny wiedzy, ale także do stałej kontroli pracy ucznia i utrzymania dyscypliny.
-W wielu przypadkach nie przewiduje się poprawy ani kartkówek i „samostojatelnych”, ani „kontrolnych” (sprawdzianów).
+W wielu przypadkach nie przewiduje się poprawy ani kartkówek, ani „kontrolnych” (sprawdzianów).
 Oznacza to, że nawet jedna słabsza ocena może pozostać w dzienniku na dłużej i wpływać na końcowy wynik.
 Taki system uczy odpowiedzialności, ale równocześnie zwiększa stres i zostawia uczniowi niewiele możliwości naprawienia błędu.
 ```
