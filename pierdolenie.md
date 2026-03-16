@@ -9,7 +9,6 @@ Dlatego koniec 9 klasy jest w białoruskim systemie szkolnym momentem, w którym
 
 # 2. „Dziennik” (dziennik lekcyjny) i „żurnał” (rejestr ocen i obecności)
 ```
-
 W białoruskiej szkole ważną rolę odgrywają „dziennik” (dziennik lekcyjny) oraz „żurnał” (rejestr ocen i obecności).
 Nauczyciele zapisują tam tematy lekcji, oceny, nieobecności, uwagi dotyczące zachowania oraz informacje o pracy klasy.
 Dokumentacja musi być prowadzona dokładnie, ponieważ szkoła zwraca dużą uwagę na porządek, formalność i kontrolę.
@@ -19,7 +18,6 @@ W ten sposób dziennik nie jest tylko szkolnym dokumentem, ale także narzędzie
 
 # 3. „Kontrolne” (sprawdziany), „samostojatelne” i ich poprawa
 ```
-
 W białoruskiej szkole duże znaczenie mają „kontrolne” (sprawdziany) oraz „samostojatelne”.
 Takie prace służą nie tylko do sprawdzenia wiedzy, ale też do utrzymania dyscypliny i stałej kontroli nad postępami ucznia.
 W wielu przypadkach nie przewiduje się poprawy ani „samostojatelnych”, ani „kontrolnych” (sprawdzianów).
@@ -29,7 +27,6 @@ Taki system uczy odpowiedzialności, ale jednocześnie zwiększa stres i daje uc
 
 # 4. Stołówka i jedzenie
 ```
-
 W białoruskiej szkole stołówka jest ważną częścią codziennego życia uczniów.
 Posiłki są zazwyczaj proste, pożywne i przygotowane według ustalonego szkolnego jadłospisu.
 Najczęściej podaje się zupę, kotlet, puree ziemniaczane, kaszę, makaron, surówkę oraz kompot.
@@ -39,7 +36,6 @@ Dlatego obiad w stołówce szkolnej jest dla wielu uczniów raczej obowiązkowym
 
 # 5. BRSM
 ```
-
 BRSM jest w Białorusi oficjalną organizacją młodzieżową, która jest widoczna w wielu szkołach i bierze udział w życiu publicznym.
 Formalnie jej zadaniem jest łączenie młodzieży, organizowanie akcji społecznych, wydarzeń patriotycznych i różnych inicjatyw szkolnych.
 Część uczniów traktuje udział w BRSM jako szansę na aktywność, udział w wydarzeniach i zdobycie dodatkowych możliwości.
@@ -49,7 +45,6 @@ Z tego powodu BRSM nie jest odbierany jednoznacznie i często wywołuje wśród 
 
 # 6. Zbiórka makulatury i rywalizacja klas
 ```
-
 W białoruskich szkołach zbiórka makulatury jest częstą akcją, w którą angażuje się cała społeczność szkolna.
 Uczniowie przynoszą stare gazety, kartony, zeszyty i inny papier, który można oddać do recyklingu.
 Oficjalnie taka akcja ma znaczenie ekologiczne i wychowawcze, ponieważ uczy porządku oraz odpowiedzialności za środowisko.
