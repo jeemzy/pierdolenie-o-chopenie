@@ -69,3 +69,11 @@ Zwykle chodzi o różne prace porządkowe albo pomoc przy szkolnych obowiązkach
 Dla uczniów taka sytuacja jest formą presji, bo makulatura przestaje być dobrowolną akcją i staje się obowiązkiem.
 Pokazuje to, że szkolna rywalizacja może czasem prowadzić nie tylko do mobilizacji, ale także do kary.
 ```
+# 9. Osobne przedmioty językowe i historyczne
+```
+W białoruskiej szkole język rosyjski i rosyjska literatura oraz język białoruski i białoruska literatura są traktowane jako osobne przedmioty.
+Podobnie historia Białorusi i historia powszechna są rozdzielane, dzięki czemu każdy temat można omawiać osobno i dokładniej.
+Taki podział jest dobry, ponieważ uczniowie nie mieszają zasad języka z analizą utworów literackich ani historii własnego kraju z historią świata.
+Dzięki temu łatwiej zrozumieć kulturę, tradycję, ważne wydarzenia i miejsce Białorusi na tle innych państw.
+W rezultacie nauka staje się bardziej uporządkowana, a każdy przedmiot ma własny cel i własną logikę.
+```
