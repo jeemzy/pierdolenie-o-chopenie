@@ -69,6 +69,7 @@ Zwykle chodzi o różne prace porządkowe albo pomoc przy szkolnych obowiązkach
 Dla uczniów taka sytuacja jest formą presji, bo makulatura przestaje być dobrowolną akcją i staje się obowiązkiem.
 Pokazuje to, że szkolna rywalizacja może czasem prowadzić nie tylko do mobilizacji, ale także do kary.
 ```
+
 # 9. Osobne przedmioty językowe i historyczne
 ```
 W białoruskiej szkole język rosyjski i rosyjska literatura oraz język białoruski i białoruska literatura są traktowane jako osobne przedmioty.
@@ -76,4 +77,13 @@ Podobnie historia Białorusi i historia powszechna są rozdzielane, dzięki czem
 Taki podział jest dobry, ponieważ uczniowie nie mieszają zasad języka z analizą utworów literackich ani historii własnego kraju z historią świata.
 Dzięki temu łatwiej zrozumieć kulturę, tradycję, ważne wydarzenia i miejsce Białorusi na tle innych państw.
 W rezultacie nauka staje się bardziej uporządkowana, a każdy przedmiot ma własny cel i własną logikę.
+```
+
+# 10. Prodłużonka i sen po lekcjach
+```
+W niektórych białoruskich szkołach uczniowie młodszych klas mogą po lekcjach zostawać w grupie przedłużonego dnia.
+Jeśli szkoła ma specjalnie przygotowane pomieszczenie, część dzieci może tam odpoczywać, a nawet spać po zajęciach.
+Dotyczy to przede wszystkim najmłodszych uczniów, którym trudniej wytrzymać cały dzień w szkole bez przerwy na odpoczynek.
+Taki system jest wygodny dla rodziców i jednocześnie pomaga dziecku spokojniej przejść przez długi szkolny dzień.
+Pokazuje to, że w białoruskiej szkole ważna jest nie tylko nauka, ale także organizacja czasu i opieki po lekcjach.
 ```
