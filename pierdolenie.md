@@ -51,4 +51,12 @@ Oficjalnie taka akcja ma znaczenie ekologiczne i wychowawcze, ponieważ uczy por
 W praktyce zbiórka szybko staje się także konkursem między klasami, ponieważ porównuje się wyniki i liczbę zebranych kilogramów.
 W rezultacie makulatura staje się nie tylko surowcem wtórnym, ale również elementem szkolnej rywalizacji, mobilizacji i presji na uczniów.
 ```
-      
+
+# 7. Mundurek szkolny
+```
+W białoruskiej szkole mundurek szkolny jest ważnym elementem porządku i dyscypliny.
+Uczniowie często muszą nosić ubrania w określonym stylu, na przykład ciemne spodnie, spódnicę, marynarkę albo kamizelkę.
+Oficjalnie taki strój ma podkreślać powagę szkoły i uczyć schludnego wyglądu.
+Jednak wielu uczniów uważa, że mundurek ogranicza ich indywidualność i nie daje możliwości swobodnego wyrażania siebie.
+Dlatego szkolna forma jest postrzegana jednocześnie jako symbol porządku, kontroli i szkolnych wymagań.
+```
