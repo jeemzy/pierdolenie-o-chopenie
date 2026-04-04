@@ -65,3 +65,18 @@ Młodsze dzieci mogą zostawać na prodłużonce po lekcjach.
 Czasem mają tam miejsce do odpoczynku, a nawet snu.
 To ułatwia opiekę i organizację dnia.
 ```
+
+# 11. Jedzenie narodowe
+```
+Do najbardziej znanych dań białoruskich należą:
+- draniki — placki ziemniaczane, najbardziej rozpoznawalne danie;
+- maczanka — gęste danie mięsne, często podawane z blinami albo draniki.
+To prosta, sycąca i bardzo charakterystyczna kuchnia.
+```
+
+# 12. Święta: państwowe i pamięci
+```
+Jednym z głównych świąt państwowych jest Dzień Niepodległości obchodzony 3 lipca.
+Ważnym dniem jest też Radunica, kiedy wiele rodzin odwiedza cmentarze i wspomina zmarłych bliskich.
+Data Radunicy jest ruchoma, więc nie zawsze przypada 14 kwietnia.
+```
